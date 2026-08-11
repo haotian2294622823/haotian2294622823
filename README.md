@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @haotian2294622823
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Haotian 👋
 
-<!---
-haotian2294622823/haotian2294622823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Software Engineer | AI Application Builder | Aspiring FDE
+
+I'm a software engineer from China, graduated from **South-Central Minzu University**, with a one-year exchange experience at **Chongqing University**.
+
+Currently working as an **IT Engineer at a Japanese company**, while focusing on my next step: building real-world **AI applications** and growing toward becoming a **Forward Deployed Engineer (FDE)**.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Graduate of **South-Central Minzu University**
+- 🏫 Exchange student at **Chongqing University**
+- 💻 Currently working as an **IT Engineer**
+- 🤖 Interested in **LLM Applications, AI Agents, RAG and AI Engineering**
+- 🧩 I enjoy turning AI models into products that solve real-world problems
+- 🎯 Career Goal: **AI Engineer / Forward Deployed Engineer**
+- 🌱 Currently improving my **AI engineering skills, English and Japanese**
+
+---
+
+## 🧠 What I'm Interested In
+
+```text
+LLM Applications
+AI Agents
+RAG
+Backend Engineering
+AI-native Products
+Developer Tools
+Forward Deployed Engineering
